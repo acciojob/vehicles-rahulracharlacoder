@@ -7,8 +7,8 @@ public interface WaterVehicle {
 
 public class Boat implements WaterVehicle{
 
-    public String name;
-    public int capacity;
+    private String name;
+    private int capacity;
 
     @Override
     public String getVehicleName() {
