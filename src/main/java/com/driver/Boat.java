@@ -20,11 +20,4 @@ public class Boat implements WaterVehicle{
         return capacity;
     }
 
-    public void setVehicleName() {
-        this.name;
-    }
-
-    public void setVehicleCapacity() {
-        this.capacity;
-    }
 }
