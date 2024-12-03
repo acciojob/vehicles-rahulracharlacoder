@@ -15,19 +15,19 @@ public class Boat implements WaterVehicle{
         return capacity;
     }
 
-    public String getname() {
+    public String getName() {
         return name;
     }
 
-    public void setname(String name) {
+    public void setName(String name) {
         this.name = name;
     }
 
-    public int getcapacity() {
+    public int getCapacity() {
         return capacity;
     }
 
-    public void setcapacity(int capacity) {
+    public void setCapacity(int capacity) {
         this.capacity = capacity;
     }
 }
