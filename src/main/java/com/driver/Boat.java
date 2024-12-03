@@ -1,6 +1,6 @@
 package com.driver;
 
-public class Boat implements WaterVehicle{
+public class Boat{
 
     private String name;
     private int capacity;
